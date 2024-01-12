@@ -1,0 +1,38 @@
+/* h1 {
+    color: #000000;
+} */
+.card-header{
+    font-size: 30px;
+    font-family: Arial Narrow Bold, sans-serif;
+    font-style: bold,;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.img-fluid{
+   background-image: url(background.jpg);
+   background-size: cover;
+   width: 200%;
+   height: 200%;
+}
+
+.card-title{
+    background-size: contain;
+    color: rgb(0, 0, 0);
+    background-color: rgb(201, 197, 191);
+}
+.card-text {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+}
+.card-footer{
+    background-color: rgb(182, 178, 178);
+}
+/* body {
+    background-image: background.jpg;
+    background-size : cover;
+    background-repeat : no-repeat;
+    height : 100%;
+} */
